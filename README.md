@@ -1,7 +1,7 @@
 <html>
   <body>
         <h1 align="center">👋 Hi! I'm Pedro </h1>
-        <hr style="border: 2px solid black;">
+        
         <br>👀 I’m interested about learning how to code and spend time in get some knowledge about Cibersecurity!<br>
         <br>🌱 I’m currently learning <br>
         <br>💞️ I’m looking to collaborate on this website so I can feel helpful ^^<br>
