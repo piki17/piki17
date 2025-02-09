@@ -1,8 +1,21 @@
 <html>
+  <head>
+	<style>
+		.bordeado{
+			border-width: 1;
+			border-style: solid;
+		}
+		#header_page{
+			font-size: 60;
+			text-align: center;
+		}
+	</style>
+</head>
+  
   <body>
     <h1>
       <li>
-        My information: <br>
+        <header id='header_page' class='bordeado'>My information:<br></header>
         <br> 👋 Hi, I’m @piki17<br>
         <br>👀 I’m interested about learning how to code and spend time in get some knowledge about Cibersecurity!<br>
         <br>🌱 I’m currently learning <br>
