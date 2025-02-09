@@ -1,17 +1,4 @@
 <html>
-  <head>
-	<style>
-		.bordeado{
-			border-width: 1;
-			border-style: solid;
-		}
-		#header_page{
-			font-size: 60;
-			text-align: center;
-		}
-	</style>
-</head>
-  
   <body>
     <h1>
       <li>
