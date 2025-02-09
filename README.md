@@ -1,7 +1,7 @@
 <html>
   <h1>
     <li>
-      My information: 
+      <br> My information: <br>
      <br> 👋 Hi, I’m @piki17<br>
       <br>👀 I’m interested about learning how to code and spend time in get some knowledge about Cibersecurity!<br>
       <br>🌱 I’m currently learning <br>
