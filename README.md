@@ -1,5 +1,4 @@
 <html>
-  <body>
     <h1>
       <li>
         My information: <br>
@@ -14,8 +13,7 @@
         <br>😄 Pronouns: he/him<br>
         <br>⚡ Fun fact: I hate one part from me, and that's being lazy AF.<br>
       </li>
-    </h1>
-  </body> 
+    </h1> 
 </html>
 
 
