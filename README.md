@@ -3,12 +3,9 @@
         <h1 align="center">👋 Hi! I'm Pedro </h1>
         <hr style="border: 1px solid black;">
         <p align="center">
-        <br>👀 I’m interested about learning how to code and spend time in get some knowledge about Cibersecurity!<br>
-        <br>🌱 I’m currently learning <br>
-        <br>💞️ I’m looking to collaborate on this website so I can feel helpful ^^<br>
+        <br>👀 Student of Computer Engineering<br>
         <br>📫 How to reach me: Send a message at jtapen17@gmail.com!<br> 
         <br>😄 Pronouns: he/him<br>
-        <br>⚡ Fun fact: I hate one part from me, and that's being lazy AF.<br>
         </p> 
   </body>   
 </html>
