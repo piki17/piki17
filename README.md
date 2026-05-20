@@ -7,7 +7,7 @@
   
  ## About Me
 
-  I'm a 3rd year Computer Engineering student with a strong focus on **systems programming** and **backend development**. I enjoy working and understanding networks and operating systems — while also building solid server-side applications.
+  I'm a 3rd year Computer Engineering student with a strong focus on **systems programming** and **backend development**. I enjoy working and understanding networks and operating systems.
 
   - 🔭 Currently deepening my knowledge in **cybersecurity and networks**
   - 🛠️  Building backend projects with **Java, Python and JavaScript**
