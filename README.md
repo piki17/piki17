@@ -22,7 +22,7 @@
   |---|---|---|
   | [Kernel](https://github.com/piki17/KRNL) | Custom x86_64 kernel booted via UEFI with Limine, tested on QEMU with GDB | C · NASM · GDB |
   | [NIC](https://github.com/piki17/NIC) | NIC abstraction over Linux raw sockets — sends and receives real Ethernet frames | C · Linux |
-  | [Malware Study](https://github.com/piki17/REPO) | Malware lifecycle research: entry vectors, persistence, C2 and evasion techniques | C · Python |
+  | [Malware Testing](https://github.com/piki17/REPO) | Malware lifecycle research: entry vectors, persistence, C2 and evasion techniques | C · Python |
 
   ---
 
