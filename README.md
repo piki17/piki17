@@ -7,7 +7,8 @@
   
  ## About Me
 
-  I'm a last year Computer Engineering student with a strong focus on **systems programming** and **backend development**. I enjoy diving deep into how operating systems and networks work.
+  I'm a last year Computer Engineering student with a strong focus on **systems programming** and **backend development**. I enjoy diving deep into how operating systems and networks work, as much as
+  I enjoy building my own projects on the backend side.
 
   - 🔭 Currently deepening my knowledge in **cybersecurity and networks**
   - 🛠️  Building backend projects with **Java, Python and JavaScript**
