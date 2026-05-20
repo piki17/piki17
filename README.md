@@ -25,8 +25,6 @@
   | [NIC](https://github.com/piki17/NIC) | NIC abstraction over Linux raw sockets — sends and receives real Ethernet frames | C · Linux |
   | [Malware Testing](https://github.com/piki17/REPO) | Malware lifecycle research: entry vectors, persistence, C2 and evasion techniques | C · Python |
 
-  ---
-
 
   ---
 
