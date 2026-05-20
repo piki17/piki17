@@ -26,10 +26,8 @@
 
   ## GitHub Stats
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=piki17&show_icons=true&theme=dark&hide_border=true" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piki17&layout=compact&theme=dark&hide_border=true" />
+   <p align="center">
+    <img src="https://streak-stats.demolab.com?user=piki17&theme=dark&hide_border=true" />
   </p>
 
   ---
