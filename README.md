@@ -20,11 +20,9 @@
 
   | Project | Description | Tech |
   |---|---|---|
-  | [Kernel](https://github.com/piki17/KRNL) | Custom x86_64 kernel built from scratch and booted via UEFI using Limine, tested on QEMU with GDB debugging | C · GDB · QEMU |
-  | [NIC](https://github.com/piki17/NIC) | Low-level NIC (Network Interface Card) abstraction over Linux raw sockets — builds and sends real Ethernet frames with 
-  RX/TX callbacks | C · Linux · Networking |
-  | [Malware Test](https://github.com/piki17/REPO) | Full malware lifecycle research: entry vectors, persistence, propagation, C2 and evasion 
-  techniques | C · Python |
+  | [Kernel](https://github.com/piki17/KRNL) | Custom x86_64 kernel booted via UEFI with Limine, tested on QEMU with GDB | C · NASM · GDB |
+  | [NIC](https://github.com/piki17/NIC) | NIC abstraction over Linux raw sockets — sends and receives real Ethernet frames | C · Linux |
+  | [Malware Study](https://github.com/piki17/REPO) | Malware lifecycle research: entry vectors, persistence, C2 and evasion techniques | C · Python |
 
   ---
 
